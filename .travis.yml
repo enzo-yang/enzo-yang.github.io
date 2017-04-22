@@ -14,7 +14,8 @@ before_script:
   - cd public
   - git init
   - git pull https://github.com/enzo-yang/enzo-yang.github.io.git
-  - ls
+  - ls -alh
+  - pwd
 
 script:
   - cd ../
