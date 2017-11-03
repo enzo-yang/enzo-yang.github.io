@@ -23,8 +23,8 @@ jobs:
       - run: git clone https://github.com/acyortjs/theme-donob.git themes/donob 
       - run: acyort build  
       - run: git checkout .  
-      - run: git checkout gh-pages 
-      - run: git reset --hard origin/gh-pages 
+      - run: git checkout master
+      - run: git reset --hard origin/master
       - run: cp -R public/* . 
       - run: rm config.bak.yml 
       - run: rm -R scripts themes public 
