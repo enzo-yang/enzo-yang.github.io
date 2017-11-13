@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[两片]]></title><description><![CDATA[我宁可喝毒药！我从没喝过酒！]]></description><link>https://enzo-yang.github.io</link><generator>RSS for Node</generator><lastBuildDate>Mon, 13 Nov 2017 13:20:49 GMT</lastBuildDate><atom:link href="https:/enzo-yang.github.io/rss.xml" rel="self" type="application/rss+xml"/><pubDate>Mon, 13 Nov 2017 13:20:49 GMT</pubDate><item><title><![CDATA[我在“地狱”呆过]]></title><description><![CDATA[<p>今天，我让一位同事把一段代码重构了，他说这个版本的功能涉及到那段代码，认为不应该现在重构这部分，希望下个版本再重构。他的理由在我看来是 ridiculous 的，下个版本开始估计要等两周 ，并且现在重构的内容并不会合并到即将发布的版本，他因为害怕可能的几行代码改动出错，而迟迟不肯动手，下个版本还是涉及到这段代码会怎样呢？难道继续推迟？</p>
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[两片]]></title><description><![CDATA[我宁可喝毒药！我从没喝过酒！]]></description><link>https://enzo-yang.github.io</link><generator>RSS for Node</generator><lastBuildDate>Mon, 13 Nov 2017 13:22:15 GMT</lastBuildDate><atom:link href="https:/enzo-yang.github.io/rss.xml" rel="self" type="application/rss+xml"/><pubDate>Mon, 13 Nov 2017 13:22:15 GMT</pubDate><item><title><![CDATA[我在“地狱”呆过]]></title><description><![CDATA[<p>今天，我让一位同事把一段代码重构了，他说这个版本的功能涉及到那段代码，认为不应该现在重构这部分，希望下个版本再重构。他的理由在我看来是 ridiculous 的，下个版本开始估计要等两周 ，并且现在重构的内容并不会合并到即将发布的版本，他因为害怕可能的几行代码改动出错，而迟迟不肯动手，下个版本还涉及到这段代码会怎样呢？难道继续推迟？</p>
 <p>&lt;!-- more --&gt;
 </p>
 <p>遇到这种事情，除了生气以为，还有一种不明的优越感，那时我心里冒出一句 「我可是在“地狱”呆过的」。</p>
@@ -7,7 +7,7 @@
 <p>在那场持续两年多的搏斗中，我进步了不少，也留下了不少遗憾，比如我走的时候主要数据库还是MySQL和Redis，完全不够酷，我刚做那份工作的时候还有MongoDB的，我做着做着就废弃了！</p>
 <p>离开以前公司也有一个原因是自我感觉到了天花板，基础平台需要做的东西很多，而我自己有点止步于了解各个工具的特性就开始指指点点，我想知道别人是怎样做的。</p>
 <p>回到刚开始的问题，我认为同事的担忧实在太无理了，修改几百行代码，只要保证正确运行，其它什么都不用想，我想不到更轻松的任务了，而他却不愿意干。</p>
-]]></description><link>https:/enzo-yang.github.io/posts/270882757.html</link><guid isPermaLink="true">https:/enzo-yang.github.io/posts/270882757.html</guid><dc:creator><![CDATA[enzo-yang]]></dc:creator><pubDate>Mon, 13 Nov 2017 13:20:37 GMT</pubDate></item><item><title><![CDATA[更爱国一点]]></title><description><![CDATA[<p>几天来，和FS吃饭，他一直唠叨：「我想更爱国一点」「你要不要变得更爱国一点？」。就是看《战狼2》嘛，我没兴趣，但他口中的「爱国」倒是挺有意思。</p>
+]]></description><link>https:/enzo-yang.github.io/posts/270882757.html</link><guid isPermaLink="true">https:/enzo-yang.github.io/posts/270882757.html</guid><dc:creator><![CDATA[enzo-yang]]></dc:creator><pubDate>Mon, 13 Nov 2017 13:21:59 GMT</pubDate></item><item><title><![CDATA[更爱国一点]]></title><description><![CDATA[<p>几天来，和FS吃饭，他一直唠叨：「我想更爱国一点」「你要不要变得更爱国一点？」。就是看《战狼2》嘛，我没兴趣，但他口中的「爱国」倒是挺有意思。</p>
 <p>&lt;!-- more --&gt;
 </p>
 <p>昨晚，我快走到麦当劳的时候，FS在微信上喊「杨先生，出来看爱国电影么」，我晚上也没事，于是便返回，去了大学城。</p>
