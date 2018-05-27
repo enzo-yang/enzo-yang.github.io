@@ -7,7 +7,7 @@ language: node_js
 node_js: 6.0.0
 
 install:
-  - npm install acyort@1.6 -g
+  - npm install acyort -g
 
 before_script:
   - mkdir public
