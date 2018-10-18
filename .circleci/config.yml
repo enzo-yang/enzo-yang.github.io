@@ -20,7 +20,7 @@ jobs:
       - run: npm install acyort -g
       - run: acyort init 
       - run: cp config.bak.yml config.yml 
-      - run: git clone https://github.com/acyortjs/theme-donob.git themes/donob 
+      - run: git clone https://github.com/enzo-yang/theme-donob.git themes/donob 
       - run: acyort build  
       - run: git checkout .  
       - run: git checkout master
