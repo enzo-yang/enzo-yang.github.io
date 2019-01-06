@@ -26,7 +26,7 @@ jobs:
       - run: git checkout master
       - run: git reset --hard origin/master
       - run: cp -R public/* . 
-      - run: rm config.bak.yml 
+      # - run: rm config.bak.yml 
       - run: rm -R scripts themes public 
       - run: git add .
       - run: git config user.name "enzoyang"
